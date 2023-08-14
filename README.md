@@ -1,5 +1,5 @@
-# 💫 About Me:
--Quien soy?**<br><br>-  Soy un programador FullStack, capcacitado en las siguientes herramientas: **React**, **Redux**, **Node**, **Express** y **Sequelize**.<br>-  Desde que tengo 23 años me he interesado en el mundo de la programcion. Mi lenguaje favorito es Javascript.<br>
+# 💫 Sobre  Mi:
+-Quien soy?<br><br>-  Soy un programador FullStack, capcacitado en las siguientes herramientas: **React**, **Redux**, **Node**, **Express** y **Sequelize**.<br>-  Desde que tengo 23 años me he interesado en el mundo de la programcion. Mi lenguaje favorito es Javascript.<br>
 
 
 ## 🌐 Socials:
