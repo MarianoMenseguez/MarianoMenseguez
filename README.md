@@ -1,5 +1,7 @@
 # 💫 Sobre  Mi:
--Quien soy?<br><br>-  Soy un programador FullStack, capcacitado en las siguientes herramientas: **React**, **Redux**, **Node**, **Express** y **Sequelize**.<br>-  Desde que tengo 23 años me he interesado en el mundo de la programcion. Mi lenguaje favorito es Javascript.<br>
+-Quien soy?<br><br>-  Soy un programador FullStack, capcacitado en las siguientes herramientas: **React**, **Redux**, **Node**, **Express** y **Sequelize**.<br>-  Desde que tengo 24 años me he interesado en el mundo de la programacion. Mi lenguaje favorito es Javascript.
+Actualmente me encuentro trabajando como analista funcional en la empresa MACENA, con el software Gecros. 
+Disfrutando mucho las consultas, actualizaciones, inserciones y eliminaciones en SQL.<br>
 
 
 ## 🌐 Socials:
